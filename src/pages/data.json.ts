@@ -1,3 +1,3 @@
 export const get = async () => {
-  return { body: 'hi' }
+  return { body: new Date().toISOString() }
 }
