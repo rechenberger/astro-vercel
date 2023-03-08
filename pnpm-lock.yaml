@@ -3,10 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   '@astrojs/vercel': ^3.2.0
   astro: ^2.1.0
+  image-size: ^1.0.2
 
 dependencies:
   '@astrojs/vercel': 3.2.0_astro@2.1.0
   astro: 2.1.0
+  image-size: 1.0.2
 
 packages:
 
