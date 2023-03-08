@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@astrojs/vercel': ^3.2.0
-  astro: ^2.0.18
+  astro: ^2.1.0
 
 dependencies:
   '@astrojs/vercel': 3.2.0_astro@2.1.0
